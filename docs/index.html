@@ -28,6 +28,7 @@ ul.task-list{list-style: none;}
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -116,62 +117,41 @@ ul.task-list{list-style: none;}
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        
+    </div>
 <!-- main -->
-<div class="quarto-about-trestles column-page">
-  <div class="about-entity">
-    <img src="images/sam.jpg" class="about-image
-  rounded " style="width: 16em;">
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">samantha csik</h1>
+<main class="content column-page" id="quarto-document-content">
+
+
+
+<div class="headshot">
+<center>
+<img src="images/sam.jpg" alt="Me!" width="400">
+</center>
 </div>
-<div class="quarto-title-meta">
-  </div>
-</header>
-    <div class="about-links">
-  <a href="https://www.linkedin.com/in/samanthacsik/" class="about-link">
-    <i class="bi bi-linkedin"></i>
-     <span class="about-link-text">LinkedIn</span>
-  </a>
-  <a href="https://twitter.com/SamanthaCsik" class="about-link">
-    <i class="bi bi-twitter"></i>
-     <span class="about-link-text">Twitter</span>
-  </a>
-  <a href="https://github.com/samanthacsik" class="about-link">
-    <i class="bi bi-github"></i>
-     <span class="about-link-text">GitHub</span>
-  </a>
-  <a href="mailto:scsik@ucsb.edu" class="about-link">
-    <i class="bi bi-envelope"></i>
-     <span class="about-link-text">Email</span>
-  </a>
-</div>
-  </div>
-  <div class="about-contents"><main class="content column-page" id="quarto-document-content">
 <div id="hero-heading">
 <section id="hi-there" class="level3">
-<h3 data-anchor-id="hi-there">hi there!</h3>
+<h3 class="anchored" data-anchor-id="hi-there">hi there!</h3>
 <p>I’m Sam (and my last name is pronounced “chick”). I’m the Data Training Coordinator at the <a href="https://www.nceas.ucsb.edu/">National Center for Ecological Analysis &amp; Synthesis</a> (NCEAS) located at UC Santa Barbara, where I’m working to develop and teach data science training curricula for the <a href="https://bren.ucsb.edu/masters-programs/master-environmental-data-science">Master of Environmental Data Science</a> (MEDS) program and other data science initiatives across NCEAS and UCSB. I am also a co-organizer of <a href="https://www.meetup.com/rladies-santa-barbara/">R-Ladies Santa Barbara</a>, a local data science group which works to promote diversity in the R community. In my spare time, you’ll typically find me hiking with my pup or cooking family dinners with friends.</p>
 <hr>
 </section>
 <section id="education" class="level3">
-<h3 data-anchor-id="education">education</h3>
+<h3 class="anchored" data-anchor-id="education">education</h3>
 <p><strong>MS in Ecology, Evolution &amp; Marine Biology, 2020</strong> | University of California, Santa Barbara, Santa Barbara, CA</p>
 <p><strong>BS in Marine Biology, 2016</strong> | Northeastern University, Boston, MA</p>
 <hr>
 </section>
 <section id="experience" class="level3">
-<h3 data-anchor-id="experience">experience</h3>
+<h3 class="anchored" data-anchor-id="experience">experience</h3>
 <p><strong>Data Training Coordinator</strong> (2021-present) - National Center for Ecological Analysis &amp; Synthesis, University of California, Santa Barbara, CA</p>
 <p><strong>Data Science Fellow</strong> (2020-2021) - National Center for Ecological Analysis &amp; Synthesis, University of California, Santa Barbara, CA</p>
 </section>
 </div>
 
 
-</main></div>
-</div>
- <!-- /main -->
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -192,6 +172,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const clipboard = new window.ClipboardJS('.code-copy-button', {
     target: function(trigger) {
       return trigger.previousElementSibling;
