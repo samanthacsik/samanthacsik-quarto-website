@@ -15,6 +15,9 @@ citation:
 bibliography: biblio.bib
 categories: [distill, R]
 image: barney_blog.gif
+format:
+  html:
+    toc: true
 ---
 
 I am a total blog newb. 

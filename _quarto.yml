@@ -31,8 +31,8 @@ website:
       - icon: twitter
         href: https://twitter.com/SamanthaCsik
   reader-mode: true
-  repo-url: https://github.com/samanthacsik/samanthacsik-quarto-website
-  repo-actions: [edit, issue]
+  #repo-url: https://github.com/samanthacsik/samanthacsik-quarto-website
+  #repo-actions: [edit, issue]
 
 format:
   html:
@@ -41,6 +41,6 @@ format:
       - green_theme.scss
     css: styles.css
     mainfont: Nunito
-    toc: true
+    #toc: true
 
 

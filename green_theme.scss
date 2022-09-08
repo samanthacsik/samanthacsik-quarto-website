@@ -9,6 +9,7 @@ $dark-sage-green: #98A08D;
 $cream: #FDFBF7;
 $gray: #64605f;
 $purple: #AE8BD1;
+$gray-purple: #C4A9CF;
 
 // Base document colors
 $navbar-bg: $cream;
@@ -31,6 +32,11 @@ $code-block-bg: $cream;
 
 /*-- scss:rules --*/
 
+html {
+min-width: 550px;
+position: relative;
+}
+
 // adjust size of logo (top left corner; see https://github.com/robertmitchellv/robertmitchellv.github.io/blob/main/custom-dark.scss)
 .navbar-brand img {
   max-height: 60px;
@@ -41,11 +47,39 @@ $code-block-bg: $cream;
   border-radius: 50%;
 }
 
+.button {
+  background-color: $light-sage-green; 
+  border-radius: 8px;
+  border: 2px solid $dark-sage-green;
+  color: $dark-sage-green; 
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: 900;
+}
+
+.button:hover {
+  background-color: $light-sage-green; 
+  border-radius: 8px;
+  border: 2px solid $purple;
+  color: $purple; 
+  transition-duration: 0.2s;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: 900;
+}
+
 // header letter spacing, font weight, color
 h1, h2, h3, h4, h5, h6 {
   letter-spacing: 5px;
   font-weight: 300;
   color: #64605F;
+  border-bottom: none
 }
 
 // body text line height (1.5 min for assistive tech)

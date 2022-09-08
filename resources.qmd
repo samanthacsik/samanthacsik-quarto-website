@@ -1,6 +1,9 @@
 ---
 title: "resources"
 subtitle: "a collection of other people's writings, tutorials, etc. that I find particularly helpful"
+format:
+  html:
+    toc: true
 ---
 
 It's finally time for an upgraded notebook! I've been Slacking myself (and subsequently burying) links to resources for far too long, so my favorites will now live here. 

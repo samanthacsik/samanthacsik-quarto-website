@@ -119,11 +119,18 @@
     "text": "MEDS\n\n\nR\n\n\nQuarto\n\n\n\nstep-by-step instructions for building, deploying, and customizing a Quarto website\n\n\n\nSamantha Csik\n\n\nAug 5, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMEDS\n\n\n\nan interactive workshop on how to launch an Amazon EC2 instance\n\n\n\nSamantha Csik\n\n\nApr 18, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMEDS\n\n\nR\n\n\n\na hands-on coding workshop on how to build a shiny app\n\n\n\nSamantha Csik\n\n\nFeb 18, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR-Ladies\n\n\nR\n\n\nPython\n\n\n\nan R to Python (and vice versa) translation workshop in collaboration with Central Coast Python\n\n\n\nSamantha Csik, An Bui, Sean Helvey, Lars Mininni\n\n\nDec 15, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMEDS\n\n\nR\n\n\n\na talk on RStudio IDE tips & tricks and other keyboard shortcuts\n\n\n\nSamantha Csik\n\n\nNov 15, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMEDS\n\n\n\na talk on how to troubleshoot code and Google for helpful answers\n\n\n\nSamantha Csik\n\n\nOct 11, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMEDS\n\n\ndistill\n\n\nCSS\n\n\n\na brief intro to using CSS to customize {distill} websites\n\n\n\nSamantha Csik\n\n\nAug 31, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR-Ladies\n\n\n\na live-coding workshop on making data visualizations with {ggplot2}\n\n\n\nSamantha Csik, An Bui, Juliette Verstaen\n\n\nMar 3, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSB Women in STEM\n\n\nsemantics\n\n\n\na lightening talk on how semantic tools can make finding data easier and impactful synthesis science faster\n\n\n\nSamantha Csik\n\n\nMar 3, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR-Ladies\n\n\n\na code-along workshop to learn data wrangling and visualization techniques using {tidyverse} functions\n\n\n\nSamantha Csik, An Bui\n\n\nMay 15, 2019\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "index.html#samantha-csik",
+    "href": "index.html#samantha-csik",
     "title": "samantha csik",
-    "section": "",
-    "text": "hi there!\nI’m Sam (and my last name is pronounced “chick”). I’m the Data Training Coordinator at the National Center for Ecological Analysis & Synthesis (NCEAS) located at UC Santa Barbara, where I’m working to develop and teach data science training curricula for the Master of Environmental Data Science (MEDS) program and other data science initiatives across NCEAS and UCSB. I am also a co-organizer of R-Ladies Santa Barbara, a local data science group which works to promote diversity in the R community. In my spare time, you’ll typically find me hiking with my pup or cooking family dinners with friends.\n\n\n\neducation\nMS in Ecology, Evolution & Marine Biology, 2020 | University of California, Santa Barbara, Santa Barbara, CA\nBS in Marine Biology, 2016 | Northeastern University, Boston, MA\n\n\n\nexperience\nData Training Coordinator (2021-present) - National Center for Ecological Analysis & Synthesis, University of California, Santa Barbara, CA\nData Science Fellow (2020-2021) - National Center for Ecological Analysis & Synthesis, University of California, Santa Barbara, CA"
+    "section": "samantha csik",
+    "text": "samantha csik\nLinkedIn LinkedIn GitHub GitHub Twitter Twitter Envelope Email"
+  },
+  {
+    "objectID": "index.html#hi-there",
+    "href": "index.html#hi-there",
+    "title": "samantha csik",
+    "section": "hi there!",
+    "text": "hi there!\nI’m Sam (and my last name is pronounced “chick”). I’m the Data Training Coordinator at the National Center for Ecological Analysis & Synthesis (NCEAS) located at UC Santa Barbara, where I’m working to develop and teach data science training curricula for the Master of Environmental Data Science (MEDS) program and other data science initiatives across NCEAS and UCSB. I am also a co-organizer of R-Ladies Santa Barbara, a local data science group which works to promote diversity in the R community. In my spare time, you’ll typically find me hiking with my pup or cooking family dinners with friends."
   },
   {
     "objectID": "about.html",

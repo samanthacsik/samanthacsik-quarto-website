@@ -1,6 +1,9 @@
 ---
 title: "about"
 subtitle: "~ a bit more about me outside of my job ~"
+format:
+  html:
+    toc: true
 ---
 
 ## `r fontawesome::fa("hiking", fill = "#64605F", a11y = "sem")` the hobby 
