@@ -5,6 +5,7 @@ project:
 website:
   title: "samantha csik"
   navbar:
+    # pinned: true
     title: false
     logo: images/logos/nunito/creamBG_greenText/logo_nunito_cropped.png
     right:
