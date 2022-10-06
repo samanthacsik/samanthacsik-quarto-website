@@ -6,20 +6,11 @@ website:
   title: "samantha csik"
   navbar:
     title: samanthacsik
-    right:
+    right: # align navbar items to the right/left/center
       - href: index.qmd
-        text: home
+        text: home # use 'text' option to update the name as it appears in your navbar
       - about.qmd
-      - href: talks_workshops.qmd
-        text: talks & workshops
-      - posts.qmd
-      - resources.qmd
-      - href: CV/SCsik_CV.pdf
-        text: cv
-      - icon: github
-        href: https://github.com/samanthacsik
-      - icon: twitter
-        href: https://twitter.com/SamanthaCsik
+
 format:
   html:
     theme: cosmo
