@@ -1,21 +1,21 @@
 ---
 title: "samantha csik"
 image: images/sam.jpg
-about: 
+about:
   template: trestles
   image-shape: rounded
   image-width: 16em
   links:
-    - icon: linkedin 
+    - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/samanthacsik/
-    - icon: twitter 
+    - icon: twitter
       text: Twitter
       href: https://twitter.com/SamanthaCsik
-    - icon: github 
+    - icon: github
       text: GitHub
       href: https://github.com/samanthacsik
-    - icon: envelope 
+    - icon: envelope
       text: Email
       href: mailto:scsik@ucsb.edu
 ---

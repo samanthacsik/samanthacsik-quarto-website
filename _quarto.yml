@@ -3,18 +3,40 @@ project:
   output-dir: docs
 
 website:
-  title: "samantha csik"
+  favicon: images/chick.png
   navbar:
-    title: samanthacsik
-    right: # align navbar items to the right/left/center
+    title: false
+    logo: images/logos/nunito/creamBG_greenText/logo_nunito_cropped.png
+    logo-alt: "The name 'sam csik' written in green text. Above 'csik' is a dark green horizontal line, above which sits a green chick icon."
+    right:
       - href: index.qmd
-        text: home # use 'text' option to update the name as it appears in your navbar
+        text: home
       - about.qmd
+      # - href: talks_workshops.qmd
+      #   text: talks & workshops
+      # - posts.qmd
+      - resources.qmd
+      - href: CV/SCsik_CV.pdf
+        text: cv
+      - icon: github
+        href: https://github.com/samanthacsik
+      - icon: twitter
+        href: https://twitter.com/SamanthaCsik
+  page-footer: 
+    background: light
+    left: 
+      - "Copyright 2021, Samantha Csik"
+    right: 
+      - icon: github
+        href: https://github.com/samanthacsik
+      - icon: twitter
+        href: https://twitter.com/SamanthaCsik
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: 
+      - mystyles.scss
+    mainfont: Nunito
     toc: true
 
 
