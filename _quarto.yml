@@ -12,9 +12,6 @@ website:
       - href: index.qmd
         text: home
       - about.qmd
-      # - href: talks_workshops.qmd
-      #   text: talks & workshops
-      # - posts.qmd
       - resources.qmd
       - href: CV/SCsik_CV.pdf
         text: cv
@@ -34,7 +31,9 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: 
+      - mystyles.scss
+    mainfont: Silkscreen
     toc: true
 
 

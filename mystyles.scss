@@ -1,0 +1,33 @@
+/*-- scss:defaults --*/
+
+// Fonts
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
+
+// Colors
+$light-blue: #5f96d4;
+$purple: #8e499e;
+$cream: #f3edf5;
+
+// Base Document Colors
+$navbar-bg: $purple;
+$body-bg: $light-blue; 
+
+/*-- scss:rules --*/
+
+h1, h3 {
+  letter-spacing: 15px;
+  font-weight: 700;
+  color: $cream;
+}
+
+.title {
+  color: red;
+}
+
+.custom-subtitle {
+  font-size: 22px;
+  font-style: italic;
+  color: $purple;
+}
+
+

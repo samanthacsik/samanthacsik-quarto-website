@@ -130,7 +130,7 @@
     "href": "about.html",
     "title": "about",
     "section": "",
-    "text": "this is an <h1> element of class title\n\n\nthis is a <p> element\n\n\nthis is a <p> element of class title"
+    "text": "hi"
   },
   {
     "objectID": "about.html#the-logo",
@@ -151,7 +151,7 @@
     "href": "resources.html",
     "title": "resources",
     "section": "",
-    "text": "And here is some normal text beneath it.\n\nHere is another custom subtitle written with Quarto syntax\nAlso note that I do not need to wrap this text in the <p> tag in order for it to render as normal text. .qmd files allow us to seamlessly blend markdown syntax with HTML."
+    "text": "this is a red h1 element\n\n\nthis is my paragraph\n\n\nthis is my red paragraph"
   },
   {
     "objectID": "resources.html#r-tools",
