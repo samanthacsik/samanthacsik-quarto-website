@@ -29,9 +29,23 @@ $code-block-bg: $cream; // code block background color
 
 
 /*-- scss:rules --*/
-/*h1, h2, h3, h4, h5, h6 {
+h1, h3 {
   letter-spacing: 10px;
   font-weight: 700;
   color: $gray;
-}*/
+}
+
+.title {
+  color: red;
+}
+
+.custom-subtitle {
+  font-size: 22px;
+  font-style: italic;
+  color: $purple;
+}
+
+.bottombr {
+  margin-bottom: 4em;
+}
 
