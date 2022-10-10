@@ -34,9 +34,7 @@ website:
 
 format:
   html:
-    theme: 
-      - mystyles.scss
-    mainfont: Nunito
+    theme: cosmo
     toc: true
 
 

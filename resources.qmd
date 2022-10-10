@@ -2,13 +2,4 @@
 title: "resources"
 ---
 
-<p class="custom-subtitle">Here is my custom subtitle.</p>
-
-<p>And here is some normal text beneath it.</p>
-
-[Here is another custom subtitle written with Quarto syntax]{.custom-subtitle}
-
-Also note that I do not need to wrap this text in the `<p>` tag in order for it to render as normal text. `.qmd` files allow us to seamlessly blend markdown syntax with HTML.
-
-
 
