@@ -1,8 +1,0 @@
----
-title: "My Test Blog"
-listing:
-  contents: test
-  type: grid
-  sort: "desc date"
-  categories: true
----
