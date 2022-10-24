@@ -20,5 +20,11 @@
       "/posts/2022-06-22-hello_quarto/index.html",
       "/posts/2021-09-21-distill-blogs/index.html"
     ]
+  },
+  {
+    "listing": "/test.html",
+    "items": [
+      "/test/2022-10-24-test-post/index.html"
+    ]
   }
 ]

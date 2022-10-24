@@ -201,5 +201,19 @@
     "title": "resources",
     "section": "Smiling Face misc.",
     "text": "Smiling Face misc.\n\nDiscover new music to jam out to while you hack at Every Noise at Once (HT: Jeanette Clark)"
+  },
+  {
+    "objectID": "test/2022-10-24-test-post/index.html",
+    "href": "test/2022-10-24-test-post/index.html",
+    "title": "My test post",
+    "section": "",
+    "text": "CitationBibTeX citation:@online{csik2022,\n  author = {Samantha Csik},\n  title = {My Test Post},\n  date = {2022-10-24},\n  url = {https://samanthacsik.github.io/posts/2022-10-24-test-post/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nSamantha Csik. 2022. “My Test Post.” October 24, 2022. https://samanthacsik.github.io/posts/2022-10-24-test-post/."
+  },
+  {
+    "objectID": "test.html",
+    "href": "test.html",
+    "title": "My Test Blog",
+    "section": "",
+    "text": "Quarto\n\n\nR\n\n\nMEDS\n\n\n\nThis is my blog post’s description\n\n\n\nSamantha Csik\n\n\nOct 24, 2022\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]

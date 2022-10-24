@@ -1,0 +1,15 @@
+---
+title: "My test post"
+description: "This is my blog post's description"
+author: 
+  - name: Samantha Csik
+    url: https://samanthacsik.github.io
+    affiliation: MEDS
+    affiliation-url: https://ucsb-meds.github.io/
+date: 2022-10-24
+categories: [Quarto, R, MEDS]
+citation: 
+  url: https://samanthacsik.github.io/posts/2022-10-24-test-post/ 
+---
+
+Here is some blog post content

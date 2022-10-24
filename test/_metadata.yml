@@ -1,0 +1,5 @@
+# add any options that you want applied to all blog posts in THIS directory
+
+freeze: true
+
+title-block-banner: true
