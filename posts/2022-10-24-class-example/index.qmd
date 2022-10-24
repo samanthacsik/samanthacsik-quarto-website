@@ -1,0 +1,34 @@
+---
+title: "blog post title"
+description: "this is a description"
+author: 
+  - name: Sam Csik
+    url: https://samanthacsik.github.io
+    affiliation: MEDS
+    affiliation-url: https://ucsb-meds.github.io
+date: 2022-10-24
+categories: [MEDS, test, R]
+citation: 
+  url: https://samanthacsik.github.io/posts/2022-10-24-class-example/
+bibliography: references.bib
+draft: false
+---
+
+Hi this is my class example[^1] blog post^[here is my second footnote].
+
+[^1]: Here is my footnote
+
+here's[^3] some more text [-@provost2013; @ingeman2022]
+
+[^3]: here is my first paragraph
+
+    here is my second paragraph
+    
+    here is my third paragraph
+    
+this is not a part a part of my footnote
+
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Sends shivers down my spine! 👻💀🎃 <a href="https://t.co/NMJk6oWBnj">https://t.co/NMJk6oWBnj</a></p>&mdash; Samantha Csik (@SamanthaCsik) <a href="https://twitter.com/SamanthaCsik/status/1584620851689033728?ref_src=twsrc%5Etfw">October 24, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Here I'm going to cite my blog post from last year [@csik2021].
