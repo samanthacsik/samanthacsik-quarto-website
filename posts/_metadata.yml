@@ -1,0 +1,7 @@
+# options specified here apply to all qmds in my posts folder
+
+# prevents posts from rerendering unless explicitly told to do so
+freeze: true
+
+# enable banner style title blocks
+title-block-banner: true

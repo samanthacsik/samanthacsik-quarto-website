@@ -13,6 +13,8 @@ website:
         text: home
       - about.qmd
       - resources.qmd
+      - href: posts.qmd
+        text: posts
       - href: CV/SCsik_CV.pdf
         text: cv
       - icon: github

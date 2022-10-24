@@ -142,9 +142,9 @@
   {
     "objectID": "posts.html",
     "href": "posts.html",
-    "title": "posts",
+    "title": "My Blog",
     "section": "",
-    "text": "R-Ladies\n\n\nOpenscapes\n\n\nR\n\n\nPython\n\n\nQuarto\n\n\n\n\na Quarto Chat with NASA Openscapes, co-hosted with R-Ladies Santa Barbara [orginally published on the Openscapes blog]\n\n\n\n\n\n\nJun 22, 2022\n\n\nSamantha Csik, Julie Lowndes, Amy Steiker, Catalina Oaida Taglialatela, Aaron Friesz, J.J. Allaire, Erin Robinson, Stefanie Butland\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\ndistill\n\n\nR\n\n\n\n\nI started putting together some slides on the whys and hows of blogging using {distill} when I realized…maybe I’ve just found the content for my first blog post??\n\n\n\n\n\n\nSep 24, 2021\n\n\nSamantha Csik\n\n\n\n\n\n\nNo matching items"
+    "text": "MEDS\n\n\ntest\n\n\nR\n\n\n\nthis is a description\n\n\n\nSam Csik\n\n\nOct 24, 2022\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "resources.html",
@@ -215,5 +215,12 @@
     "title": "My Test Blog",
     "section": "",
     "text": "Quarto\n\n\nR\n\n\nMEDS\n\n\n\nThis is my blog post’s description\n\n\n\nSamantha Csik\n\n\nOct 24, 2022\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/2022-10-24-class-example/index.html",
+    "href": "posts/2022-10-24-class-example/index.html",
+    "title": "blog post title",
+    "section": "",
+    "text": "here’s3 some more text (2013; Ingeman et al. 2022)\nthis is not a part a part of my footnote\n\n\nSends shivers down my spine! 👻💀🎃 https://t.co/NMJk6oWBnj\n\n— Samantha Csik ((SamanthaCsik?)) October 24, 2022\n\n\nHere I’m going to cite my blog post from last year (Csik 2021).\n\n\n\n\n\nReferences\n\nCsik, Samantha. 2021. “Why Create Presentation Slides about Blogging When You Can Just Blog about It Instead?” September 24, 2021. https://samanthacsik.github.io/posts/2021-09-21-distill-blogs/.\n\n\nIngeman, Kurt E., Lily Z. Zhao, Christopher Wolf, David R. Williams, Amelia L. Ritger, William J. Ripple, Kai L. Kopecky, et al. 2022. “Glimmers of Hope in Large Carnivore Recoveries.” Scientific Reports 12 (1). https://doi.org/10.1038/s41598-022-13671-7.\n\n\nProvost, Foster, and Tom Fawcett. 2013. “Data Science and Its Relationship to Big Data and Data-Driven Decision Making.” Big Data 1 (1): 51–59. https://doi.org/10.1089/big.2013.1508.\n\nFootnotes\n\n\nHere is my footnote↩︎\nhere is my second footnote↩︎\nhere is my first paragraph\nhere is my second paragraph\nhere is my third paragraph↩︎\n\nCitationBibTeX citation:@online{csik2022,\n  author = {Sam Csik},\n  title = {Blog Post Title},\n  date = {2022-10-24},\n  url = {https://samanthacsik.github.io/posts/2022-10-24-class-example/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nSam Csik. 2022. “Blog Post Title.” October 24, 2022. https://samanthacsik.github.io/posts/2022-10-24-class-example/."
   }
 ]
